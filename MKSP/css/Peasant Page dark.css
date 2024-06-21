@@ -1,0 +1,182 @@
+body {
+  background-color: #1B1212;
+}
+p { color:white}
+h3 {color:white}
+.heading {
+  background-color: #90EE90;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+
+}
+.changebutton {
+  background-color: gray; 
+  border: 2px solid #90EE90;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 8px;
+  margin: 4px 2px;
+  cursor: pointer;
+  left:0px;
+  top:0px;
+  position: absolute;
+  transition-duration: 0.4s;
+}
+.changebutton:hover {
+  background-color: #90EE90; 
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 8px;
+  margin: 4px 2px;
+  cursor: pointer;
+  left:0px;
+  top:0px;
+  position: absolute;
+  transition-duration: 0.4s;
+
+}
+
+.peasant {
+  margin: 20px;
+  padding: 20px;
+  left:260px;
+  top:450px;
+  text-align: left;
+  position: absolute;
+  style="text-decoration:none;"
+  font-family:"Times New Roman;"
+
+}
+.nobleman {
+  margin: 20px;
+  padding: 20px;
+  right:170px;
+  top:450px;
+  text-align: left;
+  position: absolute;
+  style="text-decoration:none;"
+  font-family:"Times New Roman;"
+
+}
+a:link{
+  color:white;
+  text-decoration:none;
+}
+a:visited{
+  color:white;
+  text-decoration:none;
+}
+a:hover{
+  color:brown;
+  text-decoration:none;
+}
+a:active{
+  color:white;
+  text-decoration:none;
+}
+.peabutton {
+  background-color: white; 
+  border: 2px solid #90EE90;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  left:300px;
+  top:700px;
+  position: absolute;
+  transition-duration: 0.4s;
+}
+.peabutton:hover {
+	background-color: #90EE90;
+
+  border: 2px solid #90EE90;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  left:300px;
+  top:700px;
+  position: absolute;
+  transition-duration: 0.4s;
+
+}
+.two{
+    background-color: #c0c0c0;
+    border-radius: 8px;
+    border: 2px solid rgb(16, 19, 17);
+    position: absolute;
+    top: 12px;
+    left: 18px;
+    padding: 5px;
+    text-align: left;
+    font-family: "Times New Roman";
+
+}
+
+.homebutton {
+  background-color: none; 
+  border: none;
+  color: white;
+  display: inline-block;
+  cursor: pointer;
+  float:right;
+  transition-duration: 0.4s;
+}
+img {
+  border: 3px solid #90EE90;
+}
+.helmet {
+    float: left;
+
+}
+.helmet2 {
+    float:right;
+
+}
+
+.desc1 {
+  font-size: 15px;
+  left: 410px;
+  top:200px;
+  position: absolute;
+}
+.desc2 {
+  font-size: 15px;
+  right: 600px;
+  top:500px;
+  position: absolute;
+  text-align: right;
+}
+.desc3 {
+  font-size: 15px;
+  text-align: left;
+}
+.desc4 {
+  font-size: 15px;
+  text-align: right;
+}
+.armorheading {
+  background-color: #90EE90;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 10px;
+}
+
